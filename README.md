@@ -1,2 +1,2 @@
 # daily_refresh
-An Alexa Skill for mental health tracking and management
+An Google Assistant Action for mental health tracking and management
